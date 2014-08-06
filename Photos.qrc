@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="resources">
+    <file>Coffeeimage/images.jpg</file>
+  </qresource>
+</RCC>
